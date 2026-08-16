@@ -1,3 +1,7 @@
 pymupdf>=1.24.0
 requests>=2.31.0
 python-dotenv>=1.0.0
+streamlit
+python-dotenv
+google-generativeai
+# Note: Add whatever specific package your bonsai_client uses (e.g., requests, elasticsearch)
